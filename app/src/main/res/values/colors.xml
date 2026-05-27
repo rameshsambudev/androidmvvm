@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6200EE</color>
+    <color name="primary_container">#FFBB86FC</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="note_card_bg">#FFF5F5F5</color>
+</resources>
